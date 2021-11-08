@@ -1,6 +1,3 @@
-/**
- * 
- */
 package it.unibo.oop.lab.enum1;
 
 import java.util.HashSet;
